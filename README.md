@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <h1 align="center">Hi 👋, I'm UTKARSH RAJ</h1>
 🔭 I’m currently working on different Hackathon Projects<br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning Block Chain and AI-ML deep concepts<br>💬 Ask me about anything except my girlfriend<br>⚡ Fun fact I think above statement is funny
 
 
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UTKARSH-RAJ-1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UTKARSH-RAJ-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UTKARSH-RAJ-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
